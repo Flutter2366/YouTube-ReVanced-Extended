@@ -1,8 +1,12 @@
-YouTube: 19.38.41  
-Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store  
+YouTube-Extended: 20.21.37  
+YouTube-Music-Extended (arm64-v8a): 8.30.54  
+YouTube-Music-Extended (arm-v7a): 8.30.54  
 
-[YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended)
+Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
+Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
+
+[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Patches: inotia00/patches-5.1.1-dev.2.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.1.1-dev.2)  
+CLI: MorpheApp/morphe-cli-1.6.2-all.jar  
+Patches: anddea/patches-4.0.0-dev.12.mpp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.0.0-dev.12)  
