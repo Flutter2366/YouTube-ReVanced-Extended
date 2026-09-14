@@ -1,3 +1,8 @@
+## YouTube Morphe
+* **Version:** v21.13.164 (p1.43.0-dualvot.8.5.2 b2026091401)
+* **Release:** [#8](https://github.com/Flutter2366/YouTube-ReVanced-Extended/releases/tag/8)
+
+### Release Notes:
 YouTube-Extended: 21.07.247  
 YouTube-Morphe: 21.13.164  
 YouTube-Music-Extended (arm64-v8a): 9.15.51  

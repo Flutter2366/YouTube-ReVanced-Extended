@@ -1,3 +1,8 @@
+## YouTube Music ReVanced Extended
+* **Version:** v9.15.51 (p4.3.0-dev.6 b2026091401)
+* **Release:** [#8](https://github.com/Flutter2366/YouTube-ReVanced-Extended/releases/tag/8)
+
+### Release Notes:
 YouTube-Extended: 21.07.247  
 YouTube-Morphe: 21.13.164  
 YouTube-Music-Extended (arm64-v8a): 9.15.51  

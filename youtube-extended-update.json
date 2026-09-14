@@ -1,6 +1,6 @@
 {
-  "version": "v20.51.39 (patches dev.4.mpp)",
-  "versionCode": 7,
-  "zipUrl": "https://github.com/Flutter2366/YouTube-ReVanced-Extended/releases/download/7/youtube-revanced-extended-module-v20.51.39-all.zip",
-  "changelog": "https://raw.githubusercontent.com/Flutter2366/YouTube-ReVanced-Extended/update/build.md"
+  "version": "v21.07.247 (p4.3.0-dev.6 b2026091401)",
+  "versionCode": 2026091401,
+  "zipUrl": "https://github.com/Flutter2366/YouTube-ReVanced-Extended/releases/download/8/youtube-revanced-extended-module-v21.07.247-all.zip",
+  "changelog": "https://raw.githubusercontent.com/Flutter2366/YouTube-ReVanced-Extended/update/youtube-extended-changelog.md"
 }
