@@ -31,8 +31,8 @@
 - Trigger full build in GitHub Actions.
 
 YouTube-Extended: 21.13.164 [patches-4.3.1-dev.1.mpp]  
-YouTube-Morphe: 21.16.256 [patches-1.45.0-dev.19-dualvot.8.5.3.mpp]  
 YouTube-Music-Extended (arm64-v8a): 9.15.51 [patches-4.3.1-dev.1.mpp]  
 YouTube-Music-Extended (arm-v7a): 9.15.51 [patches-4.3.1-dev.1.mpp]  
-YouTube-Music-Morphe (arm64-v8a): 9.15.51 [patches-1.45.0-dev.19.mpp]  
-YouTube-Music-Morphe (arm-v7a): 9.15.51 [patches-1.45.0-dev.19.mpp]  
+YouTube-Morphe: 21.16.256 [patches-1.45.0-dev.20-dualvot.8.5.3.mpp]  
+YouTube-Music-Morphe (arm64-v8a): 9.15.51 [patches-1.45.0-dev.20.mpp]  
+YouTube-Music-Morphe (arm-v7a): 9.15.51 [patches-1.45.0-dev.20.mpp]  
